@@ -78,7 +78,7 @@
         "tier": "Regional"
       },
       "properties": {
-        "ipAddress": "172.167.11.61",
+        "ipAddress": "172.167.33.153",
         "publicIPAddressVersion": "IPv4",
         "publicIPAllocationMethod": "Dynamic",
         "idleTimeoutInMinutes": 4,
